@@ -89,5 +89,8 @@ architecture: Clean Architecture | BLoC | REST | GraphQL
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:6e40c9,100:0d1117&height=100&section
+
+</div>
