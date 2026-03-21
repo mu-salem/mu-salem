@@ -91,6 +91,6 @@ architecture: Clean Architecture | BLoC | REST | GraphQL
 </div>
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:6e40c9,100:0d1117&height=100&section
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:6e40c9,100:0d1117&height=100&section=footer)
 
 </div>
