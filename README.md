@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:58a6ff&height=200&section=header&text=Mustafa%20Salem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Flutter%20Developer&descAlignY=60&descColor=8b949e)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mustafa;Full-Stack+and+Flutter+Developer;NestJS+%7C+Next.js+%7C+React.js+%7C+Flutter;Building+AbleLink)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mustafa;Full-Stack+and+Flutter+Developer;NestJS+%7C+Next.js+%7C+React.js+%7C+Flutter;)](https://git.io/typing-svg)
 
 </div>
 
